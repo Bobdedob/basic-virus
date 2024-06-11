@@ -1,7 +1,8 @@
+print('my first virus')
 import turtle
-t = turtle.Turtle()
 accesscode = input('...|')
-t.forward(9999999999999999999999999999999999999999999999999999999999999999999999)
 if accesscode == '123' :
 	t.clear()
 	t. hideturtle()
+t = turtle.Turtle()
+t.forward(9999)
